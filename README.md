@@ -42,3 +42,7 @@ Removal is limited to a package installed by this helper. Unexpected extra files
 ## Design and provenance
 
 The [KDE Plasma style format](https://develop.kde.org/docs/plasma/theme/theme-details/) provides the element/fallback contracts. Breeze remains an installed dependency and is not bundled. Original package assets and helper code are MIT licensed. The package intentionally avoids the version-sensitive Plasma panel and lock-screen QML overrides used in the author's personal setup.
+
+## How this started
+
+[Read the project history](docs/PROJECT_HISTORY.md) for the original problem, the choices behind the first release and the checks that still need hands-on verification.
